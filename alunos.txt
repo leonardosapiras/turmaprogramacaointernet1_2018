@@ -9,7 +9,7 @@ Deomiro Fernandes Kelsch
 Diego Bertuol de Matos
 Dimitri Luis Candemil
 Dione Luiz Sotana Rocha
-Douglas Bedin
+Douglas Bedin 1150370.
 Everton Henrique Ferreira Wingert
 Felipe Garcia Rocha
 Gerdiãh Fernando Freitas Stelmach
@@ -40,7 +40,3 @@ Tiago Ferreira Dias
 Tiago Henrique Schafer
 Vinícius Hoffmann
 Vinícius Willig Schlickmann
-
-
-
-Professor Leonardo Testando
