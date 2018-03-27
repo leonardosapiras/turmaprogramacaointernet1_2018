@@ -12,9 +12,15 @@ Dione Luiz Sotana Rocha
 Douglas Bedin 1150370.
 Everton Henrique Ferreira Wingert - 1161126
 Felipe Garcia Rocha 1150371
+<<<<<<< HEAD
+Gerdiãh Fernando Freitas Stelmach - 1161132 :D
+Gerson Carneiro de Souza
+Guilherme Aruí Appel 1160538
+=======
 Gerdiãh Fernando Freitas Stelmach - 1161132
 Gerson Carneiro de Souza - 1160536
 Guilherme Aruí Appel - 1160538
+>>>>>>> 191441151851ee3977ce712537b7acd11704f5cc
 Guilherme Feltes Sartori
 Guilherme Henkes Both
 Gustavo Malikovski Nunes
