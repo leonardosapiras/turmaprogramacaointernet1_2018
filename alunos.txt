@@ -2,34 +2,39 @@ Professor Leonardo Sápiras
 
 
 Anderson Diego Rodriguês
-Arthur Lima de Souza
+Arthur Lima de Souza --- 1160512 :D
 Carlos Roberto Leuck
 Carolina Pohren
 Deomiro Fernandes Kelsch
+<<<<<<< HEAD
 Diego Bertuol de Matos 1150655
 Dimitri Luis Candemil - 1090665
+=======
+Diego Bertuol de Matos
+Dimitri Luis Candemil
+>>>>>>> 6420d92bc109bdd77163a2057bf3ee933733d969
 Dione Luiz Sotana Rocha
 Douglas Bedin 1150370.
 Everton Henrique Ferreira Wingert - 1161126
 Felipe Garcia Rocha 1150371
-Gerdiãh Fernando Freitas Stelmach - 1161132
-Gerson Carneiro de Souza - 1160536
+Gerdiãh Fernando Freitas Stelmach
+Gerson Carneiro de Souza
 Guilherme Aruí Appel 1160538
 Guilherme Feltes Sartori
 Guilherme Henkes Both
 Gustavo Malikovski Nunes
-Henrique Honaiser Ostermann
+Henrique Honaiser Ostermann - 1130952
 Jeferson Fetter Rhoden
 Jefferson de Melo Carvalho Junior
 Jéssica Vanessa Beilke
 João Eduardo Dreyer da Silva
 Jonis Duarte da Silva
-José Eduardo da Silva 2130199
+José Eduardo da Silva
 Leonardo Gonçalves
 Luan Alberto Winck
 Lucas Böes Baptista
 Mateus Felipe Berwian
-Mateus Hack - 2100018
+Mateus Hack 2100018 ->again!
 Max Jocinei Silva 1140552
 Otávio Pohren
 Pool Patrik Oliveira de Oliveira
