@@ -6,26 +6,63 @@ Arthur Lima de Souza
 Carlos Roberto Leuck
 Carolina Pohren
 Deomiro Fernandes Kelsch
+<<<<<<< HEAD
+<<<<<<< HEAD
+Diego Bertuol de Matos
+<<<<<<< HEAD
+Dimitri Luis Candemil - 1090665
+Dione Luiz Sotana Rocha  - 2130195
+=======
+Dimitri Luis Candemil
+Dione Luiz Sotana Rocha
+>>>>>>> edd94756ee8df9d3e4a2ed2510271da72fd0322b
+Douglas Bedin 1150370.
+=======
+Diego Bertuol de Matos 1150655
+Dimitri Luis Candemil - 1090665
+Dione Luiz Sotana Rocha
+Douglas Bedin --> 1150370.
+>>>>>>> 1e004b9ef04c058f6bf07eed8a044ec915c800d0
+=======
 Diego Bertuol de Matos
 Dimitri Luis Candemil - 1090665
 Dione Luiz Sotana Rocha
 Douglas Bedin 1150370.
+>>>>>>> 1ba42440306676ae0f5e4173d6509274edc2ddc0
 Everton Henrique Ferreira Wingert - 1161126
 Felipe Garcia Rocha 1150371
+<<<<<<< HEAD
+Gerdiãh Fernando Freitas Stelmach - 1161132 :D
+Gerson Carneiro de Souza
+Guilherme Aruí Appel 1160538
+=======
 Gerdiãh Fernando Freitas Stelmach - 1161132
 Gerson Carneiro de Souza - 1160536
 Guilherme Aruí Appel - 1160538
+>>>>>>> 191441151851ee3977ce712537b7acd11704f5cc
 Guilherme Feltes Sartori
 Guilherme Henkes Both
 Gustavo Malikovski Nunes
 <<<<<<< HEAD
 Henrique Honaiser Ostermann - 1130952
 Jeferson Fetter Rhoden
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Jefferson de Melo Carvalho Junior  - 1150553
+=======
+Jefferson de Melo Carvalho Junior - 1150553
+>>>>>>> 1e004b9ef04c058f6bf07eed8a044ec915c800d0
+=======
+>>>>>>> 6420d92bc109bdd77163a2057bf3ee933733d969
+=======
 Jefferson de Melo Carvalho Junior
 Jéssica Vanessa Beilke 2120195 
 =======
 
+>>>>>>> e1e26f4f27d53bcfdff2ea8cec5f240f94b88148
 Jefferson de Melo Carvalho Junior
+>>>>>>> 1ba42440306676ae0f5e4173d6509274edc2ddc0
 Jéssica Vanessa Beilke
 >>>>>>> a600719e22945b1673f220962cf0ae8283afbc84
 João Eduardo Dreyer da Silva
