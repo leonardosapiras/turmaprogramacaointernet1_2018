@@ -12,19 +12,44 @@ Dione Luiz Sotana Rocha
 Douglas Bedin 1150370.
 Everton Henrique Ferreira Wingert - 1161126
 Felipe Garcia Rocha 1150371
+<<<<<<< HEAD
+Gerdiãh Fernando Freitas Stelmach - 1161132 :D
+Gerson Carneiro de Souza
+Guilherme Aruí Appel 1160538
+=======
 Gerdiãh Fernando Freitas Stelmach - 1161132
 Gerson Carneiro de Souza - 1160536
 Guilherme Aruí Appel - 1160538
+>>>>>>> 191441151851ee3977ce712537b7acd11704f5cc
 Guilherme Feltes Sartori
 Guilherme Henkes Both
 Gustavo Malikovski Nunes
+<<<<<<< HEAD
+Henrique Honaiser Ostermann - 1130952
+Jeferson Fetter Rhoden
+Jefferson de Melo Carvalho Junior
+Jéssica Vanessa Beilke 2120195 
+=======
 
 Jefferson de Melo Carvalho Junior
 Jéssica Vanessa Beilke
+>>>>>>> a600719e22945b1673f220962cf0ae8283afbc84
 João Eduardo Dreyer da Silva
 Jonis Duarte da Silva
+<<<<<<< HEAD
+José Eduardo da Silva 2130199 :D
+=======
 José Eduardo da Silva 2130199
+<<<<<<< HEAD
+Leonardo Gonçalves 20305051
+=======
+<<<<<<< HEAD
+>>>>>>> b8d4622decbcf0755919407b0dcbae9847ccf3ab
 Leonardo Gonçalves
+=======
+Leonardo Gonçalves 20305051
+>>>>>>> e1e26f4f27d53bcfdff2ea8cec5f240f94b88148
+>>>>>>> 191441151851ee3977ce712537b7acd11704f5cc
 Luan Alberto Winck
 Lucas Böes Baptista
 Mateus Felipe Berwian
@@ -32,9 +57,7 @@ Mateus Hack - 2100018
 Max Jocinei Silva 1140552
 Otávio Pohren
 Pool Patrik Oliveira de Oliveira
-
-=======
-Rafael Marmitt Feiten 1140562  
+Rafael Marmitt Feiten
 Ramires de Lara - 1060313
 Thaís Braga
 Tiago Ferreira Dias
