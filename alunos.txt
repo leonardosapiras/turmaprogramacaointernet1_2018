@@ -8,7 +8,7 @@ Carolina Pohren
 Deomiro Fernandes Kelsch
 Diego Bertuol de Matos
 Dimitri Luis Candemil - 1090665
-Dione Luiz Sotana Rocha
+Dione Luiz Sotana Rocha  - 2130195
 Douglas Bedin 1150370.
 Everton Henrique Ferreira Wingert - 1161126
 Felipe Garcia Rocha 1150371
@@ -20,7 +20,7 @@ Guilherme Henkes Both
 Gustavo Malikovski Nunes
 Henrique Honaiser Ostermann
 Jeferson Fetter Rhoden
-Jefferson de Melo Carvalho Junior
+Jefferson de Melo Carvalho Junior  - 1150553
 Jéssica Vanessa Beilke
 João Eduardo Dreyer da Silva
 Jonis Duarte da Silva
