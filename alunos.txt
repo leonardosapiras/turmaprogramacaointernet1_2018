@@ -6,6 +6,7 @@ Arthur Lima de Souza --- 1160512 :D
 Carlos Roberto Leuck
 Carolina Pohren
 Deomiro Fernandes Kelsch
+<<<<<<< HEAD
 Diego Bertuol de Matos
 <<<<<<< HEAD
 Dimitri Luis Candemil - 1090665
@@ -15,17 +16,27 @@ Dimitri Luis Candemil
 Dione Luiz Sotana Rocha
 >>>>>>> edd94756ee8df9d3e4a2ed2510271da72fd0322b
 Douglas Bedin 1150370.
+=======
+Diego Bertuol de Matos 1150655
+Dimitri Luis Candemil - 1090665
+Dione Luiz Sotana Rocha
+Douglas Bedin --> 1150370.
+>>>>>>> 1e004b9ef04c058f6bf07eed8a044ec915c800d0
 Everton Henrique Ferreira Wingert - 1161126
 Felipe Garcia Rocha 1150371
-Gerdiãh Fernando Freitas Stelmach
+Gerdiãh Fernando Freitas Stelmach - 1161132 
 Gerson Carneiro de Souza
 Guilherme Aruí Appel 1160538
 Guilherme Feltes Sartori
-Guilherme Henkes Both
+Guilherme Henkes Both - 2160011
 Gustavo Malikovski Nunes
-Henrique Honaiser Ostermann - 1130952
+Henrique Honaiser HOstermann - 1130952
 Jeferson Fetter Rhoden
+<<<<<<< HEAD
 Jefferson de Melo Carvalho Junior  - 1150553
+=======
+Jefferson de Melo Carvalho Junior - 1150553
+>>>>>>> 1e004b9ef04c058f6bf07eed8a044ec915c800d0
 Jéssica Vanessa Beilke
 João Eduardo Dreyer da Silva
 Jonis Duarte da Silva
