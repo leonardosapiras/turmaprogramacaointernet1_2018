@@ -87,11 +87,17 @@ Mateus Felipe Berwian
 Mateus Hack - 2100018
 Max Jocinei Silva 1140552
 Otávio Pohren
+<<<<<<< HEAD
+Pool Patrik Oliveira de Oliveira  1140559
+Rafael Marmitt Feiten
+Ramires de Lara
+=======
 Pool Patrik Oliveira de Oliveira
 Rafael Marmitt Feiten
 Ramires de Lara - 1060313
+>>>>>>> f94c5d11994a4f562f9d0edd34dc05b5736b981c
 Thaís Braga
 Tiago Ferreira Dias
-Tiago Henrique Schafer
+Tiago Henrique Schafer - 1170888
 Vinícius Hoffmann - 1160534
 Vinícius Willig Schlickmann
