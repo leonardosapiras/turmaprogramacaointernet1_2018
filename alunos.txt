@@ -18,9 +18,16 @@ Guilherme Aruí Appel - 1160538
 Guilherme Feltes Sartori
 Guilherme Henkes Both
 Gustavo Malikovski Nunes
+<<<<<<< HEAD
+Henrique Honaiser Ostermann - 1130952
+Jeferson Fetter Rhoden
+Jefferson de Melo Carvalho Junior
+Jéssica Vanessa Beilke 2120195 
+=======
 
 Jefferson de Melo Carvalho Junior
 Jéssica Vanessa Beilke
+>>>>>>> a600719e22945b1673f220962cf0ae8283afbc84
 João Eduardo Dreyer da Silva
 Jonis Duarte da Silva
 José Eduardo da Silva 2130199
