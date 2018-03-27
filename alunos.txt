@@ -18,17 +18,7 @@ Guilherme Aruí Appel - 1160538
 Guilherme Feltes Sartori
 Guilherme Henkes Both
 Gustavo Malikovski Nunes
-<<<<<<< HEAD
-<<<<<<< HEAD
-Henrique Honaiser Ostermann
-Jeferson Fetter Rhoden 1150376
-=======
-Henrique Honaiser Ostermann - 1130952
-=======
-Henrique Honaiser Ostermann
->>>>>>> 9dc77dd449e3fd8c2d3443e9afe49c56dd5aca04
-Jeferson Fetter Rhoden
->>>>>>> 6420d92bc109bdd77163a2057bf3ee933733d969
+
 Jefferson de Melo Carvalho Junior
 Jéssica Vanessa Beilke
 João Eduardo Dreyer da Silva
@@ -42,21 +32,11 @@ Mateus Hack - 2100018
 Max Jocinei Silva 1140552
 Otávio Pohren
 Pool Patrik Oliveira de Oliveira
-<<<<<<< HEAD
-<<<<<<< HEAD
-Rafael Marmitt Feiten
+
+=======
+Rafael Marmitt Feiten 1140562  
 Ramires de Lara - 1060313
 Thaís Braga
-=======
-Rafael Marmitt Feiten 1140562
-Ramires de Lara
-Thaís Braga - 1130812
->>>>>>> c9558a5e43943ef470024749e23e46b0e40e56ee
-=======
-Rafael Marmitt Feiten
-Ramires de Lara - 1060313
-Thaís Braga
->>>>>>> 1ba42440306676ae0f5e4173d6509274edc2ddc0
 Tiago Ferreira Dias
 Tiago Henrique Schafer
 Vinícius Hoffmann - 1160534
