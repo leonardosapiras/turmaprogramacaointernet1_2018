@@ -1,59 +1,41 @@
 Professor Leonardo Sápiras
 
 
-<<<<<<< HEAD
-Anderson Diego Rodriguês - 1110181 :D
-Arthur Lima de Souza
-=======
 Anderson Diego Rodriguês
-Arthur Lima de Souza --- 1160512 :D
->>>>>>> edd94756ee8df9d3e4a2ed2510271da72fd0322b
+Arthur Lima de Souza
 Carlos Roberto Leuck
 Carolina Pohren
 Deomiro Fernandes Kelsch
-<<<<<<< HEAD
 Diego Bertuol de Matos
-Dimitri Luis Candemil
-=======
-Diego Bertuol de Matos 1150655
 Dimitri Luis Candemil - 1090665
->>>>>>> 1e004b9ef04c058f6bf07eed8a044ec915c800d0
 Dione Luiz Sotana Rocha
-Douglas Bedin --> 1150370.
+Douglas Bedin 1150370.
 Everton Henrique Ferreira Wingert - 1161126
 Felipe Garcia Rocha 1150371
-<<<<<<< HEAD
-Gerdiãh Fernando Freitas Stelmach
-=======
-Gerdiãh Fernando Freitas Stelmach - 1161132 
->>>>>>> 1e004b9ef04c058f6bf07eed8a044ec915c800d0
-Gerson Carneiro de Souza
-Guilherme Aruí Appel 1160538
+Gerdiãh Fernando Freitas Stelmach - 1161132
+Gerson Carneiro de Souza - 1160536
+Guilherme Aruí Appel - 1160538
 Guilherme Feltes Sartori
-Guilherme Henkes Both - 2160011
+Guilherme Henkes Both
 Gustavo Malikovski Nunes
-<<<<<<< HEAD
-Henrique Honaiser Ostermann - 1130952
-=======
-Henrique Honaiser HOstermann - 1130952
->>>>>>> 1e004b9ef04c058f6bf07eed8a044ec915c800d0
+Henrique Honaiser Ostermann
 Jeferson Fetter Rhoden
-Jefferson de Melo Carvalho Junior - 1150553
+Jefferson de Melo Carvalho Junior
 Jéssica Vanessa Beilke
 João Eduardo Dreyer da Silva
 Jonis Duarte da Silva
-José Eduardo da Silva
+José Eduardo da Silva 2130199
 Leonardo Gonçalves
 Luan Alberto Winck
 Lucas Böes Baptista
 Mateus Felipe Berwian
-Mateus Hack 2100018 ->again!
+Mateus Hack - 2100018
 Max Jocinei Silva 1140552
 Otávio Pohren
-Pool Patrik Oliveira de Oliveira 1140559
+Pool Patrik Oliveira de Oliveira  1140559
 Rafael Marmitt Feiten
 Ramires de Lara
-Thaís Braga - 1130812
+Thaís Braga
 Tiago Ferreira Dias
 Tiago Henrique Schafer
 Vinícius Hoffmann
