@@ -6,13 +6,8 @@ Arthur Lima de Souza --- 1160512 :D
 Carlos Roberto Leuck
 Carolina Pohren
 Deomiro Fernandes Kelsch
-<<<<<<< HEAD
 Diego Bertuol de Matos 1150655
 Dimitri Luis Candemil - 1090665
-=======
-Diego Bertuol de Matos
-Dimitri Luis Candemil
->>>>>>> 6420d92bc109bdd77163a2057bf3ee933733d969
 Dione Luiz Sotana Rocha
 Douglas Bedin --> 1150370.
 Everton Henrique Ferreira Wingert - 1161126
