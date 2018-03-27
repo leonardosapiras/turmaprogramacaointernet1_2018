@@ -18,8 +18,17 @@ Guilherme Aruí Appel - 1160538
 Guilherme Feltes Sartori
 Guilherme Henkes Both
 Gustavo Malikovski Nunes
+<<<<<<< HEAD
+<<<<<<< HEAD
 Henrique Honaiser Ostermann
+Jeferson Fetter Rhoden 1150376
+=======
+Henrique Honaiser Ostermann - 1130952
+=======
+Henrique Honaiser Ostermann
+>>>>>>> 9dc77dd449e3fd8c2d3443e9afe49c56dd5aca04
 Jeferson Fetter Rhoden
+>>>>>>> 6420d92bc109bdd77163a2057bf3ee933733d969
 Jefferson de Melo Carvalho Junior
 Jéssica Vanessa Beilke
 João Eduardo Dreyer da Silva
@@ -38,5 +47,5 @@ Ramires de Lara
 Thaís Braga
 Tiago Ferreira Dias
 Tiago Henrique Schafer
-Vinícius Hoffmann
+Vinícius Hoffmann - 1160534
 Vinícius Willig Schlickmann
