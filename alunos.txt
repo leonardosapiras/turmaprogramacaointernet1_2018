@@ -30,8 +30,20 @@ Jéssica Vanessa Beilke
 >>>>>>> a600719e22945b1673f220962cf0ae8283afbc84
 João Eduardo Dreyer da Silva
 Jonis Duarte da Silva
+<<<<<<< HEAD
+José Eduardo da Silva 2130199 :D
+=======
 José Eduardo da Silva 2130199
+<<<<<<< HEAD
 Leonardo Gonçalves 20305051
+=======
+<<<<<<< HEAD
+>>>>>>> b8d4622decbcf0755919407b0dcbae9847ccf3ab
+Leonardo Gonçalves
+=======
+Leonardo Gonçalves 20305051
+>>>>>>> e1e26f4f27d53bcfdff2ea8cec5f240f94b88148
+>>>>>>> 191441151851ee3977ce712537b7acd11704f5cc
 Luan Alberto Winck
 Lucas Böes Baptista
 Mateus Felipe Berwian
