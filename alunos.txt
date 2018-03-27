@@ -21,7 +21,7 @@ Gustavo Malikovski Nunes
 Henrique Honaiser Ostermann
 Jeferson Fetter Rhoden
 Jefferson de Melo Carvalho Junior
-Jéssica Vanessa Beilke
+Jéssica Vanessa Beilke 2120195 
 João Eduardo Dreyer da Silva
 Jonis Duarte da Silva
 José Eduardo da Silva 2130199
