@@ -1,8 +1,13 @@
 Professor Leonardo Sápiras
 
 
+<<<<<<< HEAD
+Anderson Diego Rodriguês - 1110181 :D
+Arthur Lima de Souza
+=======
 Anderson Diego Rodriguês
 Arthur Lima de Souza --- 1160512 :D
+>>>>>>> edd94756ee8df9d3e4a2ed2510271da72fd0322b
 Carlos Roberto Leuck
 Carolina Pohren
 Deomiro Fernandes Kelsch
