@@ -8,6 +8,7 @@ Carolina Pohren
 Deomiro Fernandes Kelsch
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Diego Bertuol de Matos
 <<<<<<< HEAD
 Dimitri Luis Candemil - 1090665
@@ -24,10 +25,31 @@ Dione Luiz Sotana Rocha
 Douglas Bedin --> 1150370.
 >>>>>>> 1e004b9ef04c058f6bf07eed8a044ec915c800d0
 =======
+=======
+>>>>>>> 70c2b4bf2e446627b20bc4cbf5de094268e85c82
+Diego Bertuol de Matos
+<<<<<<< HEAD
+Dimitri Luis Candemil - 1090665
+Dione Luiz Sotana Rocha  - 2130195
+=======
+Dimitri Luis Candemil
+Dione Luiz Sotana Rocha
+>>>>>>> edd94756ee8df9d3e4a2ed2510271da72fd0322b
+Douglas Bedin 1150370.
+<<<<<<< HEAD
+=======
+=======
+Diego Bertuol de Matos 1150655
+Dimitri Luis Candemil - 1090665
+Dione Luiz Sotana Rocha
+Douglas Bedin --> 1150370.
+>>>>>>> 1e004b9ef04c058f6bf07eed8a044ec915c800d0
+=======
 Diego Bertuol de Matos
 Dimitri Luis Candemil - 1090665
 Dione Luiz Sotana Rocha
 Douglas Bedin 1150370.
+>>>>>>> 70c2b4bf2e446627b20bc4cbf5de094268e85c82
 >>>>>>> 1ba42440306676ae0f5e4173d6509274edc2ddc0
 Everton Henrique Ferreira Wingert - 1161126
 Felipe Garcia Rocha 1150371
@@ -72,6 +94,7 @@ José Eduardo da Silva 2130199 :D
 =======
 José Eduardo da Silva 2130199
 <<<<<<< HEAD
+<<<<<<< HEAD
 Leonardo Gonçalves 20305051
 =======
 <<<<<<< HEAD
@@ -79,6 +102,15 @@ Leonardo Gonçalves 20305051
 Leonardo Gonçalves
 =======
 Leonardo Gonçalves 20305051
+=======
+Leonardo Gonçalves 20305051
+=======
+<<<<<<< HEAD
+>>>>>>> b8d4622decbcf0755919407b0dcbae9847ccf3ab
+Leonardo Gonçalves
+=======
+Leonardo Gonçalves 20305051
+>>>>>>> 70c2b4bf2e446627b20bc4cbf5de094268e85c82
 >>>>>>> e1e26f4f27d53bcfdff2ea8cec5f240f94b88148
 >>>>>>> 191441151851ee3977ce712537b7acd11704f5cc
 Luan Alberto Winck
@@ -87,11 +119,17 @@ Mateus Felipe Berwian
 Mateus Hack - 2100018
 Max Jocinei Silva 1140552
 Otávio Pohren
+<<<<<<< HEAD
+Pool Patrik Oliveira de Oliveira  1140559
+Rafael Marmitt Feiten
+Ramires de Lara
+=======
 Pool Patrik Oliveira de Oliveira
 Rafael Marmitt Feiten
 Ramires de Lara - 1060313
+>>>>>>> f94c5d11994a4f562f9d0edd34dc05b5736b981c
 Thaís Braga
 Tiago Ferreira Dias
-Tiago Henrique Schafer
+Tiago Henrique Schafer - 1170888
 Vinícius Hoffmann - 1160534
 Vinícius Willig Schlickmann
